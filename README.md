@@ -6,7 +6,6 @@ Solve 2 problems daily from NeetCode 250.
 
 Cover all the important topics like Arrays, Linked Lists, Trees, Graphs, Dynamic Programming, Backtracking, and Sorting.
 
-Improve problem-solving skills for coding interviews.
 
 Master JavaScript in the context of DSA challenges.
 
