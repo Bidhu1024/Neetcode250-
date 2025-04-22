@@ -12,4 +12,3 @@ var maxProfit = function (prices) {
   return finalCount;
 };
 
-console.log(maxProfit([7, 1, 5, 3, 6, 4]));
