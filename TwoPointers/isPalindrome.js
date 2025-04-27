@@ -12,5 +12,4 @@ while(left <= right){
 }
 return true
 };
-
 console.log(isPalindrome("race a car"));
