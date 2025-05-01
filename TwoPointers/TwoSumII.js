@@ -17,7 +17,7 @@ var twoSum = function(nums, target) {
 //     }
 //   }  
 
-
+//timecomplexity - 0(n)
 let left = 0;
 let right = nums.length - 1;
 
