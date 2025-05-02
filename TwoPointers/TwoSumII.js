@@ -17,7 +17,7 @@ var twoSum = function(nums, target) {
 //     }
 //   }  
 
-//timecomplexity - 0(n)
+//timecomplexity - 0(n) space  complexity - 0(1)
 let left = 0;
 let right = nums.length - 1;
 
